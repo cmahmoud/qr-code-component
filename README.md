@@ -31,5 +31,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Mahmoud Ibrahiam](https://cmahmoud.vercel.com)
+- Website - [Mahmoud Ibrahiam](https://cmahmoud.vercel.app/)
 - Frontend Mentor - [@cmahmoud](https://www.frontendmentor.io/profile/cmahmoud)
